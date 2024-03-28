@@ -1,1 +1,0 @@
-Jester=Clown luck=success routine=common routine=regular harlequin=clown pleasant=nice 

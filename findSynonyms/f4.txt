@@ -1,5 +1,0 @@
-nice,pleasant
-clown,comedian,funny-man,harlequin,jester
-fortune,luck,success
-hello,hi,howdy
-common,day-to-day,regular,routine,usual
